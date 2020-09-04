@@ -7,7 +7,7 @@ ___
 デベロッパーパック：.NET Core SDK 3.1.401  
 Webサーバー：Kestrel  
 言語：C#.NET 8.0    
-データベース：Microsoft SQL Server 2019 Express CU6  
+データベース：Microsoft SQL Server 2019 Express CU7  
 -データベース管理ツール：Microsoft SQL Server Management Studio 18.6  
 データベース接続：.NET Framework Data Provider for SQL Server  
 O/R マッパー：Entity Framework Core SQLServer 3.1.7  
